@@ -1,4 +1,5 @@
 # Button Animation 
  - For personal experience
 
-# Detail coming soon 
+# this is for Linkdin button 
+- if you click on it will send to my linkdin page  
